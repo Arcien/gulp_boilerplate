@@ -1,0 +1,18 @@
+@media (max-width:767px){
+  html {
+    font-size: $f-base-size - 2px;
+  }
+  .introduction-section {
+    background-color: $small-color;
+    color: #ffffff;
+    .col-one {
+      font-size: 50px;
+    }
+    .col-two {
+      background-color:transparent;
+    }
+    .col-three {
+      background-color:transparent;
+    }
+  }
+}

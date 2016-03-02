@@ -1,0 +1,22 @@
+{
+  "name": "gulp_boilerplate",
+  "description": "Basic development setup",
+  "main": "index.js",
+  "authors": [
+    "Nikolaj"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
